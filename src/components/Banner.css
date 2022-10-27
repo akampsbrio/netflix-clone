@@ -7,8 +7,8 @@
 
 .banner__contents{
     margin-left: 30px;
-    padding-top: 140px;
-    height: 190px;
+    padding-top: 200px;
+    height: 350px;
 }
 
 .banner__title{
@@ -29,7 +29,7 @@
 
 .banner__fadeBottom{
     height: 8rem;
-    background-image: linear-gradient(180deg,transparent,rgba(155, 152, 152, 0.7),#fff);
+    background-image: linear-gradient(180deg,transparent,rgba(51, 51, 51, 0.7),#111);
     z-index: auto;   
 }
 
